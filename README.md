@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Ahmad Khoirul Huda (@AhmadKhoirul22)!</h1>
+  <h1>👋 Hi, I'm Ahmad Khoirul Huda!</h1>
   <img src="https://media.giphy.com/media/1hQIxACcoZXAoOwMOG/giphy.gif" alt="Coder GIF" width="200"/>
 </div>
 
