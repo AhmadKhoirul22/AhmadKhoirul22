@@ -32,7 +32,7 @@
 ### 📈 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadKhoirul22&show_icons=true&theme=radical" alt="GitHub Stats" height="150px"/>
-  <img src="https://streak-stats.demolab.com/?user=AhmadKhoirul22&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="150px"/>
+  <img src="https://streak-stats.demolab.com/?user=AhmadKhoirul22&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak" height="150px"/>
 </div>
 
 ---
