@@ -36,6 +36,10 @@
 </div>
 <!-- &cache_seconds=86400 -->
 ---
+### 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhoirul22&langs_count=10&theme=radical)
+
+---
 
 ### 🎯 Fun Facts & Interests:
 - 🎨 I love designing in my free time.
