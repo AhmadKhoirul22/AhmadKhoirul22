@@ -38,7 +38,7 @@
 ---
 ### 📊 Most Used Languages:
 <div align="center" >
-    <img src="[https://streak-stats.demolab.com/?user=AhmadKhoirul22&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhoirul22&langs_count=10&theme=radical" alt="GitHub Streak" height="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhoirul22&langs_count=10&theme=radical" alt="GitHub Streak" height="150px"/>
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhoirul22&langs_count=10&theme=radical) -->
 
