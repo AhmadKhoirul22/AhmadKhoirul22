@@ -39,9 +39,10 @@
 ---
 
 ### 📊 Most Used Languages:
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhoirul22&layout=compact&theme=default" alt="GitHub Streak" height="150px"/>
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=AhmadKhoirul22&layout=compact&theme=default" alt="Top Langs" height="150px" />
 </div>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhoirul22&langs_count=10&theme=radical) -->
 
 ---
