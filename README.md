@@ -6,7 +6,7 @@
 ---
 
 ### Tentang Saya
-Pengembang **backend** dengan fokus pada **PHP** (CodeIgniter 3, Laravel). Sedang belajar **Flutter** dan **Firebase** untuk pengembangan aplikasi mobile. Bersemangat untuk berkolaborasi dalam proyek **open-source** dan **startup** yang menarik.
+Pengembang **backend** dengan fokus pada **PHP** (CodeIgniter, Laravel).
 
 ---
 
